@@ -12,4 +12,4 @@ I have solely used the opensource [Open3D library](https://github.com/isl-org/Op
 ## Requirements
 It is better to run the file as Colab notebook only as it might not run well on your computer due to the heavy tasks involved.
 ## References 
-While writing the code, I majorly followed on Youtube Channel : [Amnah's Lab](https://www.youtube.com/@AmnahsLab)
+While writing the code, I majorly followed an Youtube Channel : [Amnah's Lab](https://www.youtube.com/@AmnahsLab)

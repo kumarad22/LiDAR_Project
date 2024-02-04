@@ -13,3 +13,4 @@ I have solely used the opensource [Open3D library](https://github.com/isl-org/Op
 It is better to run the file as Colab notebook only as it might not run well on your computer due to the heavy tasks involved.
 ## References 
 While writing the code, I majorly followed an Youtube Channel : [Amnah's Lab](https://www.youtube.com/@AmnahsLab)
+More about the Open3D library can be read from [this link](https://paperswithcode.com/paper/open3d-a-modern-library-for-3d-data).
